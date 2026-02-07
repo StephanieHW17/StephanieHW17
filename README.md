@@ -15,35 +15,27 @@ I turn marketing and customer data into clear, actionable insights that support 
 
 ## 📊 Featured Projects
 
-### 🛒 Retail Promotion & Sales Analysis
-**What:** Analysed large-scale retail sales and promotional data to understand sales drivers and promotion effectiveness  
-**How:** Python, SQL, Excel, Power BI  
-**Impact:** Delivered insights on product performance and promotional patterns to support data-informed marketing decisions  
-🔗 [Repository](link)
+### 🛒 Unbox Henkel: Designing Promotions That Sell Smarter
+**What:** This project was completed as part of a graduate capstone collaboration between the University of Auckland and Henkel New Zealand, focusing on evaluating and optimising promotional effectiveness across Woolworths NZ’s 2024 Spring and Summer Cleaning campaigns.
+**How:** Python, R, Excel, Power BI  
+**Impact:** The analysis covered three core FMCG categories — Laundry Detergent, Toilet Care, and Dishwash — with the objective of identifying which promotional levers drive sales uplift beyond price discounts, and how campaign design can be improved to maximise ROI while protecting long-term brand value.
+🔗 [Repository](https://github.com/StephanieHW17/Unbox-Henkel-Designing-Promotions-That-Sell-Smarter-)
 
 ---
 
-### 📈 Customer Behaviour & Segmentation Analysis
-**What:** Explored customer purchasing behaviour and segmented customers based on key attributes and patterns  
-**How:** Python (pandas), data visualisation  
-**Impact:** Improved understanding of customer groups to support targeted marketing strategies  
-🔗 [Repository](link)
+### 📈 Beyond Just Hosting: Airbnb Superhost Success Analysis (Queenstown, NZ)
+**What:** This project analyses the key factors that drive Airbnb Superhost status in Queenstown, New Zealand — one of the country’s most competitive short-term rental markets.
+**How:** R, data visualisation  
+**Impact:** Using a combination of statistical modelling, text analysis, and segmentation, the project provides actionable insights to help hosts improve performance, guest satisfaction, and market positioning.
+🔗 [Repository](https://github.com/StephanieHW17/Beyond_Just_Hosting)
 
 ---
 
-### 📊 Marketing Performance Dashboard
-**What:** Built an interactive dashboard to track key marketing and sales KPIs  
-**How:** Power BI, Excel, data modelling  
-**Impact:** Provided a clear, stakeholder-friendly view of performance trends and metrics  
-🔗 [Repository](link)
-
----
-
-### 🔍 Exploratory Data Analysis for Marketing Insights
-**What:** Conducted exploratory data analysis to uncover trends, correlations, and anomalies in marketing-related datasets  
-**How:** Python, data visualisation  
-**Impact:** Generated insights that informed further analysis and business discussions  
-🔗 [Repository](link)
+### 📊 B2B Customer Purchasing & Seasonal Trends Analysis (SQL)
+**What:** This project analyses B2B customer purchasing behaviour and seasonal sales trends for Wide World Importers (WWI) using SQL.
+**How:** SQL Server
+**Impact:** The objective is to uncover customer segments, high-value buyers, and demand patterns to support data-driven pricing, inventory, and supplier decisions.
+🔗 [Repository](https://github.com/StephanieHW17/B2B-Customer-Purchasing-Seasonal-Trends-Analysis)
 
 ---
 
@@ -65,7 +57,10 @@ I turn marketing and customer data into clear, actionable insights that support 
 **Tools**
 - Git & GitHub
 - Canva
-- Google Sheets
+- Python
+- R
+- SQL
+- Power BI
 
 ---
 
